@@ -1,0 +1,27 @@
+# ninja log v5
+12	191	6951541122892134	CMakeFiles/algorithm.dir/Sort/InsertionSort.cpp.obj	5e0c669383ac4103
+0	456	6951541125552462	CMakeFiles/algorithm.dir/main.cpp.obj	67da9c92bb9cbca7
+3	492	6951542030383892	CMakeFiles/algorithm.dir/main.cpp.obj	67da9c92bb9cbca7
+492	694	6951542032334254	algorithm.exe	bb45e3e3a640af2d
+3	146	6951542460684149	CMakeFiles/algorithm.dir/Sort/InsertionSort.cpp.obj	5e0c669383ac4103
+146	344	6951542462603625	algorithm.exe	bb45e3e3a640af2d
+4	136	6951542758565872	CMakeFiles/algorithm.dir/Sort/InsertionSort.cpp.obj	5e0c669383ac4103
+136	322	6951542760355402	algorithm.exe	bb45e3e3a640af2d
+3	137	6951543173185519	CMakeFiles/algorithm.dir/Sort/InsertionSort.cpp.obj	5e0c669383ac4103
+138	332	6951543175075708	algorithm.exe	bb45e3e3a640af2d
+3	142	6951543578222401	CMakeFiles/algorithm.dir/Sort/InsertionSort.cpp.obj	5e0c669383ac4103
+143	331	6951543580063378	algorithm.exe	bb45e3e3a640af2d
+3	137	6951544262294373	CMakeFiles/algorithm.dir/Sort/InsertionSort.cpp.obj	5e0c669383ac4103
+137	332	6951544264185525	algorithm.exe	bb45e3e3a640af2d
+4	136	6951544425861816	CMakeFiles/algorithm.dir/Sort/InsertionSort.cpp.obj	5e0c669383ac4103
+137	321	6951544427657221	algorithm.exe	bb45e3e3a640af2d
+5	234	6951544663071186	CMakeFiles/algorithm.dir/Sort/InsertionSort.cpp.obj	5e0c669383ac4103
+234	421	6951544664881179	algorithm.exe	bb45e3e3a640af2d
+3	136	6951544813352360	CMakeFiles/algorithm.dir/Sort/InsertionSort.cpp.obj	5e0c669383ac4103
+136	323	6951544815172386	algorithm.exe	bb45e3e3a640af2d
+3	138	6951546004222521	CMakeFiles/algorithm.dir/Sort/InsertionSort.cpp.obj	5e0c669383ac4103
+138	327	6951546006055229	algorithm.exe	bb45e3e3a640af2d
+3	134	6951546129493786	CMakeFiles/algorithm.dir/Sort/InsertionSort.cpp.obj	5e0c669383ac4103
+134	324	6951546131337164	algorithm.exe	bb45e3e3a640af2d
+3	138	6951546343036280	CMakeFiles/algorithm.dir/Sort/InsertionSort.cpp.obj	5e0c669383ac4103
+139	324	6951546344817107	algorithm.exe	bb45e3e3a640af2d
