@@ -4,6 +4,7 @@
 
 #ifndef ALGORITHM_INSERTIONSORT_H
 #define ALGORITHM_INSERTIONSORT_H
-void InsertSort(int *a,int n);
+void InsertSortUP(int *a,int n);
+void InsertSortDown(int *a,int n);
 int InsertSortMain();
 #endif //ALGORITHM_INSERTIONSORT_H
